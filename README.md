@@ -67,6 +67,7 @@ Which products have the highest sales volume?
 
 ## Conclusion
 This project highlights how raw financial sales data can be transformed into meaningful business insights using modern data analytics tools.<br>
+<br>
 By integrating Excel, SQL, and Power BI, the project demonstrates a practical workflow used by real-world data analysts to:<br>
 clean and prepare datasets<br>
 store and query data efficiently<br>
@@ -88,4 +89,5 @@ Data cleaning and preprocessing<br>
 SQL querying and database management<br>
 Data visualization and dashboard design<br>
 Extracting actionable business insights from financial datasets<br>
+<br>
 This project reflects my ability to convert raw business data into meaningful insights that support strategic decision making.
