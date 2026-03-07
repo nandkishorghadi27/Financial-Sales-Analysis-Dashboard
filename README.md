@@ -23,16 +23,16 @@ Segment, Country, Product, Discount Band, Units Sold, Manufacturing Price, Sale 
 
 ## Sample SQL Queries
 
-Total Sales by Country:
-SELECT country, SUM(sales) AS total_sales
-FROM financial_sales
-GROUP BY country
-ORDER BY total_sales DESC;
-
-Profit by Product:
-SELECT product, SUM(profit) AS total_profit
-FROM financial_sales
-GROUP BY product
+Total Sales by Country:<br>
+SELECT country, SUM(sales) AS total_sales<br>
+FROM financial_sales<br>
+GROUP BY country<br>
+ORDER BY total_sales DESC;<br>
+<br>
+Profit by Product:<br>
+SELECT product, SUM(profit) AS total_profit<br>
+FROM financial_sales<br>
+GROUP BY product<br>
 ORDER BY total_profit DESC;
 
 ## Power BI Dashboard Features
