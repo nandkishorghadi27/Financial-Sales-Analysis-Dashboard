@@ -36,22 +36,22 @@ GROUP BY product<br>
 ORDER BY total_profit DESC;
 
 ## Power BI Dashboard Features
-Total Sales KPI
-Total Profit KPI
-Sales by Country
-Profit by Product
-Sales by Segment
+Total Sales KPI<br>
+Total Profit KPI<br>
+Sales by Country<br>
+Profit by Product<br>
+Sales by Segment<br>
 Monthly Sales Trend
 
 ## Business Insights
-Identify top-performing countries
-Understand which products generate the most profit
-Analyze sales trends over time
-Compare sales performance across market segments
+Identify top-performing countries<br>
+Understand which products generate the most profit<br>
+Analyze sales trends over time<br>
+Compare sales performance across market segments<br>
 
 ## Skills Demonstrated
-Data Cleaning
-SQL Querying
-Database Management
-Data Visualization
+Data Cleaning<br>
+SQL Querying<br>
+Database Management<br>
+Data Visualization<br>
 Business Intelligence Analysis
