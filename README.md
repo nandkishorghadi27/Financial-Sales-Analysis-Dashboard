@@ -55,3 +55,37 @@ SQL Querying<br>
 Database Management<br>
 Data Visualization<br>
 Business Intelligence Analysis
+
+## Business Questions Solved
+This project answers several important business questions:<br>
+Which country generates the highest sales revenue?<br>
+Which products contribute the most profit?<br>
+Which customer segment performs best?<br>
+How do discounts impact overall profitability?<br>
+What are the monthly sales trends?<br>
+Which products have the highest sales volume?
+
+## Conclusion
+This project highlights how raw financial sales data can be transformed into meaningful business insights using modern data analytics tools.<br>
+By integrating Excel, SQL, and Power BI, the project demonstrates a practical workflow used by real-world data analysts to:<br>
+clean and prepare datasets<br>
+store and query data efficiently<br>
+visualize key metrics<br>
+support strategic decision making<br>
+The project showcases the importance of data-driven analysis in improving business performance.
+
+## Interview-Ready Summary
+This project is an end-to-end data analytics solution that analyzes financial sales data to identify business trends and performance insights.<br>
+<br>
+The workflow includes:<br>
+Data cleaning using Excel<br>
+Data storage and SQL analysis using PostgreSQL<br>
+Database management with pgAdmin<br>
+Interactive dashboard creation using Power BI<br>
+<br>
+Through this project, I demonstrated skills in:<br>
+Data cleaning and preprocessing<br>
+SQL querying and database management<br>
+Data visualization and dashboard design<br>
+Extracting actionable business insights from financial datasets<br>
+This project reflects my ability to convert raw business data into meaningful insights that support strategic decision making.
