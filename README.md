@@ -29,22 +29,17 @@ Columns Included:<br>
 14. Month_Name<br>
 15. Year
 
-Columns used in the dataset include:
-Segment, Country, Product, Discount Band, Units Sold, Manufacturing Price, Sale Price, Gross Sales, Discounts, Sales, COGS, Profit, Date, Month Number, Month Name, Year.
+## Business Questions Solved
 
-## Sample SQL Queries
-
-Total Sales by Country:<br>
-SELECT country, SUM(sales) AS total_sales<br>
-FROM financial_sales<br>
-GROUP BY country<br>
-ORDER BY total_sales DESC;<br>
+<a href="Financials_Dashboard.pdf" target="_blank">All Pages Financials_Dashboard.pdf</a> <br>
 <br>
-Profit by Product:<br>
-SELECT product, SUM(profit) AS total_profit<br>
-FROM financial_sales<br>
-GROUP BY product<br>
-ORDER BY total_profit DESC;
+This project answers several healthcare analytics questions:<br>
+1. What are the most common medical conditions among patients?<br>
+2. Which admission type occurs most frequently?<br>
+3. What is the average billing cost per patient?<br>
+4. How does patient age distribution look?<br>
+5. Which hospitals handle the most patients?<br>
+6. What percentage of test results are normal vs abnormal?<br>
 
 ## Power BI Dashboard Features
 Total Sales KPI<br>
