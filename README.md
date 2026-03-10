@@ -7,21 +7,28 @@ This project demonstrates an end-to-end data analytics workflow using Excel, Pos
 
 <img src="Financials_Dashboard.jpg" alt="Financials Dashboard.jpg">
 
-## Tools & Technologies
-Microsoft Excel – Data cleaning and preprocessing
-PostgreSQL – Database storage and SQL analysis
-pgAdmin – PostgreSQL database management
-Microsoft Power BI – Data visualization and dashboard creation
-GitHub – Version control and project hosting
+## Dataset used
 
-## Project Workflow
-1. Raw Dataset Collection (Financials-org.csv)
-2. Data Cleaning in Excel
-3. Data Import into PostgreSQL using pgAdmin
-4. SQL Data Analysis
-5. Data Visualization using Power BI Dashboard
+Total Records: 700<br>
+<a href="Financials-org.csv" target="_blank">Financials-org.csv</a> <br>
+Columns Included:<br>
 
-## Database Table Structure
+1. Segment	Country<br>
+2. Product<br>
+3. Discount_Band<br>
+4. Units_Sold<br>
+5. Manufacturing_Price<br>
+6. Sale_Price<br>
+7. Gross_Sales<br>
+8. Discounts<br>
+9. Sales<br>
+10. COGS<br>
+11. Profit<br>
+12. Date<br>
+13. Month_Number<br>
+14. Month_Name<br>
+15. Year
+
 Columns used in the dataset include:
 Segment, Country, Product, Discount Band, Units Sold, Manufacturing Price, Sale Price, Gross Sales, Discounts, Sales, COGS, Profit, Date, Month Number, Month Name, Year.
 
