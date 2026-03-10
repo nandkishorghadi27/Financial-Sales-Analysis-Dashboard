@@ -32,7 +32,7 @@ Columns Included:<br>
 ## Business Questions Solved
 
 <a href="Financials_Dashboard.pdf" target="_blank">All Pages Financials_Dashboard.pdf</a> <br>
-<br>
+
 1. Which country generates the highest sales revenue?<br>
 2. Which products contribute the most profit?<br>
 3. Which customer segment performs best?<br>
