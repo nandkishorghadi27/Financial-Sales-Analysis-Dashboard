@@ -40,6 +40,9 @@ Columns Included:<br>
 5. What are the monthly sales trends?<br>
 6. Which products have the highest sales volume?
 
+## Database 
+<a href="financial_database" target="_blank">financial_database</a> <br>
+
 ## Process
 1. Data Cleaning<br>
 2. SQL Querying<br>
