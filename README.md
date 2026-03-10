@@ -33,67 +33,22 @@ Columns Included:<br>
 
 <a href="Financials_Dashboard.pdf" target="_blank">All Pages Financials_Dashboard.pdf</a> <br>
 <br>
-This project answers several healthcare analytics questions:<br>
-1. What are the most common medical conditions among patients?<br>
-2. Which admission type occurs most frequently?<br>
-3. What is the average billing cost per patient?<br>
-4. How does patient age distribution look?<br>
-5. Which hospitals handle the most patients?<br>
-6. What percentage of test results are normal vs abnormal?<br>
+1. Which country generates the highest sales revenue?<br>
+2. Which products contribute the most profit?<br>
+3. Which customer segment performs best?<br>
+4. How do discounts impact overall profitability?<br>
+5. What are the monthly sales trends?<br>
+6. Which products have the highest sales volume?
 
-## Power BI Dashboard Features
-Total Sales KPI<br>
-Total Profit KPI<br>
-Sales by Country<br>
-Profit by Product<br>
-Sales by Segment<br>
-Monthly Sales Trend
+## Process
+1. Data Cleaning<br>
+2. SQL Querying<br>
+3. Database Management<br>
+4. Data Visualization<br>
+5. Business Intelligence Analysis
 
-## Business Insights
-Identify top-performing countries<br>
-Understand which products generate the most profit<br>
-Analyze sales trends over time<br>
-Compare sales performance across market segments<br>
+## Project Insight
+The financial sales dataset analysis shows that the Midmarket segment generated the highest overall sales, indicating strong demand from medium-sized customers. Among all products, Amarilla performed as the top-selling product, contributing significantly to revenue growth. Country-wise analysis highlights the United States of America as the leading market with the highest sales performance.
 
-## Skills Demonstrated
-Data Cleaning<br>
-SQL Querying<br>
-Database Management<br>
-Data Visualization<br>
-Business Intelligence Analysis
-
-## Business Questions Solved
-This project answers several important business questions:<br>
-Which country generates the highest sales revenue?<br>
-Which products contribute the most profit?<br>
-Which customer segment performs best?<br>
-How do discounts impact overall profitability?<br>
-What are the monthly sales trends?<br>
-Which products have the highest sales volume?
-
-## Conclusion
-This project highlights how raw financial sales data can be transformed into meaningful business insights using modern data analytics tools.<br>
-<br>
-By integrating Excel, SQL, and Power BI, the project demonstrates a practical workflow used by real-world data analysts to:<br>
-clean and prepare datasets<br>
-store and query data efficiently<br>
-visualize key metrics<br>
-support strategic decision making<br>
-The project showcases the importance of data-driven analysis in improving business performance.
-
-## Interview-Ready Summary
-This project is an end-to-end data analytics solution that analyzes financial sales data to identify business trends and performance insights.<br>
-<br>
-The workflow includes:<br>
-Data cleaning using Excel<br>
-Data storage and SQL analysis using PostgreSQL<br>
-Database management with pgAdmin<br>
-Interactive dashboard creation using Power BI<br>
-<br>
-Through this project, I demonstrated skills in:<br>
-Data cleaning and preprocessing<br>
-SQL querying and database management<br>
-Data visualization and dashboard design<br>
-Extracting actionable business insights from financial datasets<br>
-<br>
-This project reflects my ability to convert raw business data into meaningful insights that support strategic decision making.
+## Final Conclusion
+Overall, the analysis reveals that focusing on the Midmarket customer segment and high-performing products like Amarilla can significantly improve business revenue. The United States market presents the strongest sales opportunity and should be prioritized for future strategies. Leveraging data-driven insights through Excel, pgAdmin, and Power BI helps identify profitable markets and optimize business decisions.
